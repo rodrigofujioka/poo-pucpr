@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯ŸÊùÿÿÿÿÿ8ÕÖÔˆ/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘âÊ¨ıÿÿÿÿ8Å‚ÒÔˆ/
+™
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(µ¿Ğ™8µ“îÔˆ/
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©šõÁúÿÿÿÿ8Å‚ÒÔˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ¿Ğ™8ô²èÔˆ/
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú°­e8Å‚ÒÔˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ¿Ğ™8ÕÖÔˆ/
