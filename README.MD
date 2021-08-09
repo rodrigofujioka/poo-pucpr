@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Version-v0.0.4-green.svg" alt="Versão" />
 
 Repositório da disciplina de metodologia e Linguagem de Programação 2 (Java Básico).
-- [Unipê](http://pucpr.br)
+- [PUCPR](http://pucpr.br)
 
 
 ## Pré requisito
