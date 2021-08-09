@@ -1,10 +1,0 @@
-
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÏ¶µûÿÿÿÿ8Ş³ÀÔˆ/
-J
-java:S4274 "(Replace this assert with a proper check.(½ÍŒµıÿÿÿÿ8¯ãÂÔˆ/
-w
-java:S3008
-"ZRename this field "preco_unitarios" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¹É8ÙŒÁÔˆ/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï©Ñúÿÿÿÿ8Ş³ÀÔˆ/
-\
-java:S1118":Add a private constructor to hide the implicit public one.(ºáúùÿÿÿÿ8Èº°Ôˆ/

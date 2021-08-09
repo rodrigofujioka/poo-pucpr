@@ -1,5 +1,0 @@
-
-s	java:S116"WRename this field "carga_maxima" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ıö8Æ¤õŠ/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿË€÷ÿÿÿÿÿ8Ã›£õŠ/
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿›Ö´8Ã›£õŠ/
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿË€÷ÿÿÿÿÿ8Ã›£õŠ/
