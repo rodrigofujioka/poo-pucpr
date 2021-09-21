@@ -7,10 +7,16 @@ public class UsaCalculadora {
         Calculadora cal = new Calculadora();
         int retorno = 0;
 
+
+
         cal.somar(4,5);
+
         retorno = cal.subtrair(5,6);
 
+        retorno = cal.subtrair(retorno, 9);
+
         System.out.println("Subtração : " + retorno);
+
 
     }
 }
