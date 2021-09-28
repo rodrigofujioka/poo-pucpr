@@ -14,6 +14,7 @@ public class Atleta {
         System.out.println("Nome: " + nome);
         System.out.println("Número: " + numero);
     }
+
     public void trocarCamisa(int numero){
         this.numero = numero;
     }
