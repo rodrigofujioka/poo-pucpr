@@ -4,7 +4,7 @@ public class Vendedor {
 
     private String nome;
     private int codigo;
-    public static float COMISSAO = 15.0f;
+    public static float COMISSAO = 5.0f;
     private String endereco;
 
     public Vendedor(String nome, int codigo, String endereco) {
