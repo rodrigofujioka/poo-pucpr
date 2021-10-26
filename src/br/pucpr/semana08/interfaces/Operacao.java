@@ -1,4 +1,5 @@
 package br.pucpr.semana08.interfaces;
+
 public class Operacao {
 
 	public static void main(String[] args) {
