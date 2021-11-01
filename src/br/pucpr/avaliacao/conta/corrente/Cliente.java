@@ -20,6 +20,7 @@ public class Cliente
     public ContaCorrente getConta() {
         return this.conta;
     }
+
     public void opera (){
         Scanner ler = new Scanner(System.in);
         double valor;
