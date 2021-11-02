@@ -78,9 +78,10 @@ public class Banco {
         System.out.println("Menu de Opções :");
         System.out.println("1 : Cadastrar Cliente");
         System.out.println("2 : Consultar Cliente");
-        System.out.println("3 : Sacar ");
-        System.out.println("4 : Depositar ");
-        System.out.println("5 : Sair ");
+        System.out.println("3 : Listar Clientes");
+        System.out.println("4 : Sacar ");
+        System.out.println("5 : Depositar ");
+        System.out.println("6 : Sair ");
     }
 
 
