@@ -1,4 +1,4 @@
-package br.pucpr.avaliacao.conta.corrente;
+package br.pucpr.avaliacaoum;
 
 import java.util.ArrayList;
 import java.util.Scanner;

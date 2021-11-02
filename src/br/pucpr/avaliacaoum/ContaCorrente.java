@@ -1,4 +1,4 @@
-package br.pucpr.avaliacao.conta.corrente;
+package br.pucpr.avaliacaoum;
 
 public class ContaCorrente {
 
